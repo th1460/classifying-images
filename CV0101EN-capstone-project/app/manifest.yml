@@ -1,0 +1,5 @@
+---
+applications:
+ - name: thiago-pires-computer-vision-app
+   random-random: true
+   memory: 128M
